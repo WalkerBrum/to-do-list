@@ -12,10 +12,7 @@
 </div>
 
   
-## [Projeto Deploy](https://github.com/WalkerBrum/to-do-list)
- #### Link para acesso à aplicação
- 
- https://walkerbrum.github.io/to-do-list/
+## [Projeto Deploy](https://walkerbrum.github.io/to-do-list/)
  
 ### TQI Fullstack Developer
 - Bootcamp na Digital Innovation One  
