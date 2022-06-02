@@ -47,7 +47,7 @@ button:hover {
 
 #sub-container {
     padding: 20px 10px;
-    width: 500px;
+    min-width: 500px;
     height: 400px;
     border: 2px solid white;
     display: block;
@@ -80,4 +80,8 @@ input[type=checkbox]:checked + label {
     text-decoration: line-through;
   } 
   
+@media  (max-width: 500px) {
+
+}
+    
 
