@@ -12,7 +12,10 @@
 </div>
 
   
-## [Projeto Deploy](https://github.com/malanski/toDoList/)
+## [Projeto Deploy](https://github.com/WalkerBrum/to-do-list)
+ #### Link para acesso à aplicação
+ 
+ https://walkerbrum.github.io/to-do-list/
  
 ### TQI Fullstack Developer
 - Bootcamp na Digital Innovation One  
@@ -22,6 +25,7 @@
  1 Cria um campo de entrada de texto e um botão que adiciona Tarefas à lista  
  2 À medida que o botão é pressionado, o texto deve renderizar na lista abaixo de uma caixa de seleção  
  3 Quando o usuário marca a caixa de seleção, o item correspondente deve ter o texto riscado. (por exemplo, tarefa concluída. dica: você pode resolver isso facilmente com CSS)   
+ 
       
 <div align="center">
 <img width="520px" alt="Certificado do Curso de JavaScript no Bootcamp da TQI" title="Certificado do Curso de JavaScript no Bootcamp da TQI" src="certificationDIO.jpg">
