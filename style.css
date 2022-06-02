@@ -47,8 +47,8 @@ button:hover {
 
 #sub-container {
     padding: 20px 10px;
-    min-width: 500px;
-    height: 400px;
+    width: 500px;
+    min-height: 400px;
     border: 2px solid white;
     display: block;
     justify-content: flex-start;
